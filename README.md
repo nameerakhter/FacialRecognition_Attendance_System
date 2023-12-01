@@ -1,4 +1,7 @@
 # Facial Recognition based Attendance System
+![Screenshot 2023-12-01 184805](https://github.com/nameerakhter/FacialRecognition_Attendance_System/assets/120779958/935ad15e-c2a9-417a-a3e2-eda4f55cc117)
+
+
 
 ## About the Project
 The Facial Recognition based Attendance System is a cutting-edge solution designed to streamline the attendance tracking process in educational institutions. Leveraging advanced facial recognition technology, the system automatically identifies students as they enter the classroom and records their attendance details in a central database.
